@@ -12,7 +12,7 @@
     "mining_url": "kas.2miners.com:2020",
     "wallet": "qp3rthgx7slldq27z87xe6fg4302s6596phlr54upfy0khrlkajcqgarx9xrq",
     "password": "x",
-    "algo": "kheavyhash",
+    "algo": "kaspa",
     "fan_speed": 80,
     "wait_time_idle": 1,
     "use_ssl": 0
